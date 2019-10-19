@@ -1,1 +1,1 @@
-# nakruti
+# nakruti.github.io
