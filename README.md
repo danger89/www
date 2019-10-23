@@ -19,7 +19,7 @@ SMS бомбер с приятным веб-интерфейсом. Вниман
     ```
 2. Склонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/emez3siu/b0mb3r.github.io
     cd b0mb3r
     ```
 3. Установите зависимости:
@@ -37,7 +37,7 @@ SMS бомбер с приятным веб-интерфейсом. Вниман
 2. Установите git для Windows, скачав его [отсюда](https://git-scm.com/download/win).
 3. Откройте командную строку и склонируйте репозиторий при помощи git и перейдите в папку:
     ```bash
-    git clone https://github.com/crinny/b0mb3r
+    git clone https://github.com/emez3siu/b0mb3r.github.io
     cd b0mb3r
     ```
 4. Установите все необходимые библиотеки и запустите скрипт:
